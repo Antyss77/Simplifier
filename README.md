@@ -1,18 +1,18 @@
-﻿# Mathematics Simplifier
+﻿# Mathematics Simplifier 📈
  
 **A project to simplify  :**
-> - The calculations of a volume / an air 
-> - The calculations of an average 
-> - The calculations of a reduction 
-> - A calculator (+, - , / , *) for fun
+> 🍀 The calculations of a volume / an air 
+> 🍀 The calculations of an average 
+> 🍀 The calculations of a reduction 
+> 🍀 A calculator (+, - , / , *) for fun
 
-*The goal is to simplify operations via the Java language*
+*🌴 The goal is to simplify operations via the Java language*
 
 ![logo](https://user-images.githubusercontent.com/47704223/128952330-d92597d7-9cda-498a-8bd8-eca54de89661.png)
 
 ---
 
-**Outils :**
+** 🔨 Outils :**
 
 ![icons8-logo-java-coffee-cup](https://user-images.githubusercontent.com/47704223/128952567-bc018c34-768b-44af-b16d-def0185659cc.gif)
 
