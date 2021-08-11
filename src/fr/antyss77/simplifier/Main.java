@@ -1,6 +1,4 @@
-package fr.solaris.simplificateur;
-
-import java.util.Scanner;
+package fr.antyss77.simplifier;
 
 public class Main {
     public static String methodName;

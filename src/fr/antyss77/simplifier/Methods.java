@@ -1,4 +1,4 @@
-package fr.solaris.simplificateur;
+package fr.antyss77.simplifier;
 
 import java.util.ArrayList;
 import java.util.Scanner;
