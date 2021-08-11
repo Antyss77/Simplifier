@@ -1,4 +1,4 @@
-﻿# Mathematical Simplifier
+﻿# Mathematics Simplifier
  
 **A project to simplify  :**
 > - Calculate a volume / an air 
