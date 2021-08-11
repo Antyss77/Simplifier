@@ -7,7 +7,7 @@ public class Methods {
 
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_BLACK = "\u001B[30m";
-    public static final String ANSI_RED = "\u001B[31m";
+    public static final String ANSI_RED = " \u001B[31m";
     public static final String ANSI_GREEN = "\u001B[32m";
     public static final String ANSI_YELLOW = "\u001B[33m";
     public static final String ANSI_BLUE = "\u001B[34m";
@@ -43,7 +43,7 @@ public class Methods {
     public static void air() {
 
         try (Scanner scanner = new Scanner(System.in)) {
-            System.out.print(ANSI_RED + "Give me a shape : ");
+            System.out.print(ANSI_RED + "Give me a shape : rectangle or circle ");
             String shape = scanner.next();
             if (shape.equalsIgnoreCase("rectangle")) {
                 System.out.print(ANSI_RED + "Please enter the width : ");
@@ -74,9 +74,6 @@ public class Methods {
 
     public static void reduction() {
         try (Scanner scanner = new Scanner(System.in)) {
-            System.out.print(ANSI_BLUE + "Hello, would you like to calculate a reduction ? ( y/n ) : ");
-            String reply = scanner.next();
-
             System.out.print(ANSI_RED + "What is the price of the discounted item ? ");
             float price = scanner.nextFloat();
             System.out.print(ANSI_RED + "What is the amount of the reduction ? ");
@@ -148,9 +145,10 @@ public class Methods {
                 case "/":
                     float resultDivision = firstNumber / secondNumber;
                     System.out.println(ANSI_GREEN + "Result : " + resultDivision);
+                    retry();
                     break;
+
             }
-            retry();
         }
     }
 
