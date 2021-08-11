@@ -1,10 +1,10 @@
 ﻿# Mathematics Simplifier
  
 **A project to simplify  :**
-> - Calculate a volume / an air 
-> - Calculate an average 
-> - Calculate a reduction 
-> - A calculator (+, - , / , *)
+> - The calculations of a volume / an air 
+> - The calculations of an average 
+> - The calculations of a reduction 
+> - A calculator (+, - , / , *) for fun
 
 *The goal is to simplify operations via the Java language*
 
