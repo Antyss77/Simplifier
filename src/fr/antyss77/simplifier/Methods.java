@@ -15,7 +15,6 @@ public class Methods {
     public static final String ANSI_CYAN = "\u001B[36m";
     public static final String ANSI_WHITE = "\u001B[37m";
 
-
     public static String methodName;
     private static final ArrayList<Double> nbAll = new ArrayList<>();
 
@@ -41,7 +40,6 @@ public class Methods {
         }
     }
 
-
     public static void air() {
 
         try (Scanner scanner = new Scanner(System.in)) {
@@ -66,6 +64,9 @@ public class Methods {
                 double res = pi * rad * rad;
                 System.out.println(ANSI_GREEN + "The air in the circle is " + res + "²");
                 retry();
+            } else {
+                System.out.println(ANSI_RED + "It is not a shape!");
+                quit();
             }
 
         }
@@ -116,6 +117,9 @@ public class Methods {
                 System.out.println(ANSI_GREEN + "The volume is : " + result + "^3");
 
                 retry();
+            } else {
+                System.out.println(ANSI_RED + "It's not a shape!");
+                quit();
             }
         }
     }
@@ -178,10 +182,9 @@ public class Methods {
         }
     }
 
-
     public static void quit() {
         try (Scanner scanner = new Scanner(System.in)) {
-            System.out.println(ANSI_RED + "you will leave the calculator...");
+            System.out.println(ANSI_RED + "The program will close down...");
             for (int i = 5; i > 0; i--) {
                 Thread.sleep(1000);
                 System.out.println(i);
