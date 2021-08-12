@@ -145,10 +145,9 @@ public class Methods {
                 case "/":
                     float resultDivision = firstNumber / secondNumber;
                     System.out.println(ANSI_GREEN + "Result : " + resultDivision);
-                    retry();
                     break;
-
             }
+            retry();
         }
     }
 
