@@ -35,8 +35,6 @@ public class Methods {
 
             System.out.println(ANSI_GREEN + "Result : " + result);
             retry();
-
-
         }
     }
 
@@ -82,8 +80,6 @@ public class Methods {
             finalPrice = price - finalPrice;
             System.out.println(ANSI_GREEN + "Result : " + finalPrice);
             retry();
-
-
         }
 
     }
@@ -151,6 +147,27 @@ public class Methods {
         }
     }
 
+    public static void forms() {
+        try (Scanner scanner = new Scanner(System.in)) {
+            System.out.println("Goal of the game: Give me a number and I will tell you what shape it is");
+            int number = scanner.nextInt();
+            if(number <= 20) {
+                System.out.println("Rectangle");
+                retry();
+            } else if (number >= 20 && number < 50) {
+                System.out.println("Carré");
+                retry();
+            } else if (number >= 50) {
+                System.out.println("Triangle");
+                retry();
+            } else {
+                quit();
+                return;
+            }
+
+        }
+    }
+
     public static void retry() {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.print(ANSI_BLUE + "Do you want to do something else ? ( y/n ) : ");
@@ -167,7 +184,7 @@ public class Methods {
 
     public static void welcome() {
         try (Scanner scanner = new Scanner(System.in)) {
-            System.out.println(ANSI_BLUE + "Hello, what do you want to do ? " + ANSI_GREEN + "Air - Average - Reduction - Volume - Calculator");
+            System.out.println(ANSI_BLUE + "Hello, what do you want to do ? " + ANSI_GREEN + "Air - Average - Reduction - Volume - Calculator - Forms");
             methodName = scanner.nextLine();
 
             if (methodName.equalsIgnoreCase("air")) Methods.air();
@@ -175,6 +192,7 @@ public class Methods {
             if (methodName.equalsIgnoreCase("reduction")) Methods.reduction();
             if (methodName.equalsIgnoreCase("volume")) Methods.volume();
             if (methodName.equalsIgnoreCase("calculator")) Methods.calculator();
+            if (methodName.equalsIgnoreCase("forms")) Methods.forms();
             if (methodName.equalsIgnoreCase("quit")) Methods.quit();
         }
     }
