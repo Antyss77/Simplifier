@@ -11,7 +11,7 @@
 >
 > 🔹 Number to a shape (randomly) for fun
 
-*🌴 The goal is to simplify operations via the Java language*
+# 🌴 Why complicate life when you can make it simple? Use Simplify!
 
 ![logo](https://user-images.githubusercontent.com/47704223/128952330-d92597d7-9cda-498a-8bd8-eca54de89661.png)
 
