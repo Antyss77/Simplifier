@@ -1,6 +1,6 @@
 ﻿# Mathematics Simplifier 📈
  
-**A project to simplify  :**
+**An intuitive project, and easy to use to simplify different things related to mathematics, geometry, it is a more or less serious project**
 > 🔹 The calculations of a volume / an air 
 >
 > 🔹 The calculations of an average 
