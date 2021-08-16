@@ -9,7 +9,7 @@
 >
 > 🔹 A calculator (+, - , / , *) for fun
 >
-> 🔹
+> 🔹 Number to a shape (randomly) for fun
 
 *🌴 The goal is to simplify operations via the Java language*
 
