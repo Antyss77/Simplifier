@@ -8,6 +8,8 @@
 > 🔹 The calculations of a reduction 
 >
 > 🔹 A calculator (+, - , / , *) for fun
+>
+> 🔹
 
 *🌴 The goal is to simplify operations via the Java language*
 
