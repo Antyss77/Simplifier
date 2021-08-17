@@ -1,6 +1,6 @@
 ﻿# Mathematics Simplifier 📈
  
-# An intuitive project, and easy to use to simplify different things related to mathematics, geometry, it is a more or less serious project
+## An intuitive project, and easy to use to simplify different things related to mathematics, geometry, it is a more or less serious project
 ### ✳️ Mini programs created for fun but which finally have a little use :p
 > 🔹 Average
 >
