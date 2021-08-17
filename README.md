@@ -7,7 +7,7 @@
 >
 > 🔹 The calculations of a reduction 
 >
-> 🔹 A calculator (+, - , / , *) for fun
+> 🔹 A calculator (+, - , / , *)
 >
 > 🔹 Number to a shape (randomly) for fun
 
