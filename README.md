@@ -1,7 +1,7 @@
 ﻿# Mathematics Simplifier 📈
  
-## An intuitive project, and easy to use to simplify different things related to mathematics, geometry, it is a more or less serious project
-### ✳️ Mini programs created for fun but which finally have a little use :p
+# An intuitive project, and easy to use to simplify different things related to mathematics, geometry, it is a more or less serious project
+## 🌴 Why complicate life when you can make it simple? Use Simplify!
 > 🔹 Average
 >
 > 🔹 Air
@@ -14,7 +14,6 @@
 > 
 > 🔹 Forms
 
-### 🌴 Why complicate life when you can make it simple? Use Simplify!
 
 ![logo](https://user-images.githubusercontent.com/47704223/128952330-d92597d7-9cda-498a-8bd8-eca54de89661.png)
 ---
