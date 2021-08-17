@@ -1,15 +1,13 @@
 ﻿# Mathematics Simplifier 📈
  
 # An intuitive project, and easy to use to simplify different things related to mathematics, geometry, it is a more or less serious project
-> 🔹 The calculations of a volume / an air 
->
-> 🔹 The calculations of an average 
->
-> 🔹 The calculations of a reduction 
->
-> 🔹 A calculator (+, - , / , *)
->
-> 🔹 Number to a shape (randomly) for fun
+### ✳️ Mini programs created for fun but which finally have a little use :p
+> 🔹 Average
+> 🔹 Air
+> 🔹 Reduction
+> 🔹 Volume
+> 🔹 Calculator
+> 🔹 Forms
 
 ### 🌴 Why complicate life when you can make it simple? Use Simplify!
 
