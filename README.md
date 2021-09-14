@@ -3,7 +3,7 @@
   <img width="640" height="232" src="https://user-images.githubusercontent.com/47704223/133209228-3b648178-6429-4794-9d6f-83f4e7b6ada4.png">
 </p> 
 ![GitHub issues](https://img.shields.io/github/issues/Antyss77/Mathematics-Simplifier)
-
+<img alt="Discord" src="https://img.shields.io/discord/741862512307339264">
 
 
 
