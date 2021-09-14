@@ -1,21 +1,23 @@
 ﻿# Mathematics Simplifier 📈
  
-**A project to simplify  :**
-> 🍀 The calculations of a volume / an air 
+# An intuitive project, and easy to use to simplify different things related to mathematics, geometry, it is a more or less serious project
+## 🌴 Why complicate life when you can make it simple? Use Simplify!
+> 🔹 Average
 >
-> 🍀 The calculations of an average 
->
-> 🍀 The calculations of a reduction 
->
-> 🍀 A calculator (+, - , / , *) for fun
+> 🔹 Air
+> 
+> 🔹 Reduction
+> 
+> 🔹 Volume
+> 
+> 🔹 Calculator
+> 
+> 🔹 Forms
 
-*🌴 The goal is to simplify operations via the Java language*
 
 ![logo](https://user-images.githubusercontent.com/47704223/128952330-d92597d7-9cda-498a-8bd8-eca54de89661.png)
-
 ---
-
-# 🔨 Outils :
+# 🔨 Used for this project  :
 
 ![icons8-logo-java-coffee-cup](https://user-images.githubusercontent.com/47704223/128952567-bc018c34-768b-44af-b16d-def0185659cc.gif)
 
