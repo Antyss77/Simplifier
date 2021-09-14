@@ -1,5 +1,4 @@
-﻿
- <p align="center">
+﻿<p align="center">
   <img width="640" height="232" src="https://user-images.githubusercontent.com/47704223/133209228-3b648178-6429-4794-9d6f-83f4e7b6ada4.png">
 </p> 
 
@@ -23,4 +22,3 @@ cd Simplifier/
 
 ## Licence
 This project has no license, you are free to use the code in any way you wish, of course respecting the laws of the country where you are resident, you are solely responsible for the acts you commit, and I am in no way responsible if you commit an illegal act with my code.
-
