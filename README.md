@@ -1,4 +1,4 @@
- ![Simplifier](https://user-images.githubusercontent.com/47704223/133207297-4ba3e798-cfab-4b93-8a06-402c1c3af3c8.png)
+![simplifier](https://user-images.githubusercontent.com/47704223/133209228-3b648178-6429-4794-9d6f-83f4e7b6ada4.png)
 
 # An intuitive project, and easy to use to simplify different things related to mathematics, geometry, it is a more or less serious project
 ## 🌴 Why complicate life when you can make it simple? Use Simplify!
