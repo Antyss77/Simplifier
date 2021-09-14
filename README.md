@@ -1,7 +1,13 @@
 
-<p align="center">
+ <p align="center">
   <img width="640" height="232" src="https://user-images.githubusercontent.com/47704223/133209228-3b648178-6429-4794-9d6f-83f4e7b6ada4.png">
-</p>
+</p> 
+![GitHub issues](https://img.shields.io/github/issues/Antyss77/Mathematics-Simplifier)
+
+
+
+
+
 # An intuitive project, and easy to use to simplify different things related to mathematics, geometry, it is a more or less serious project
 ## 🌴 Why complicate life when you can make it simple? Use Simplify!
 > 🔹 Average
