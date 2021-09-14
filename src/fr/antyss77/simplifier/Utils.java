@@ -3,7 +3,7 @@ package fr.antyss77.simplifier;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Methods {
+public class Utils {
 
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_BLACK = "\u001B[30m";
@@ -155,7 +155,7 @@ public class Methods {
                 System.out.println("Rectangle");
                 retry();
             } else if (number >= 20 && number < 50) {
-                System.out.println("Carré");
+                System.out.println("Square");
                 retry();
             } else if (number >= 50) {
                 System.out.println("Triangle");
@@ -187,13 +187,13 @@ public class Methods {
             System.out.println(ANSI_BLUE + "Hello, what do you want to do ? " + ANSI_GREEN + "Air - Average - Reduction - Volume - Calculator - Forms");
             methodName = scanner.nextLine();
 
-            if (methodName.equalsIgnoreCase("air")) Methods.air();
-            if (methodName.equalsIgnoreCase("average")) Methods.average();
-            if (methodName.equalsIgnoreCase("reduction")) Methods.reduction();
-            if (methodName.equalsIgnoreCase("volume")) Methods.volume();
-            if (methodName.equalsIgnoreCase("calculator")) Methods.calculator();
-            if (methodName.equalsIgnoreCase("forms")) Methods.forms();
-            if (methodName.equalsIgnoreCase("quit")) Methods.quit();
+            if (methodName.equalsIgnoreCase("air")) Utils.air();
+            if (methodName.equalsIgnoreCase("average")) Utils.average();
+            if (methodName.equalsIgnoreCase("reduction")) Utils.reduction();
+            if (methodName.equalsIgnoreCase("volume")) Utils.volume();
+            if (methodName.equalsIgnoreCase("calculator")) Utils.calculator();
+            if (methodName.equalsIgnoreCase("forms")) Utils.forms();
+            if (methodName.equalsIgnoreCase("quit")) Utils.quit();
         }
     }
 
