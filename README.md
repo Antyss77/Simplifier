@@ -5,7 +5,7 @@
 # Simplifier  <img alt="GitHub issues" src="https://img.shields.io/github/issues/Antyss77/Mathematics-Simplifier"> <img alt="Discord" src="https://img.shields.io/discord/741862512307339264">
 
 
-An intuitive project, and easy to use to simplify different things related to mathematics, geometry
+An intuitive project, and easy to use to simplify different things related to mathematics, geometry.
 
 ## Building
 **Requirements**
