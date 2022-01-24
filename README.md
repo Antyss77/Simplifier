@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img width="640" height="232" src="![Simplifier](https://user-images.githubusercontent.com/47704223/150722792-b37afaf3-bd22-4139-9dbb-b401f126afa4.png)">
+  <img width="640" height="232" src="https://user-images.githubusercontent.com/47704223/150722792-b37afaf3-bd22-4139-9dbb-b401f126afa4.png">
 </p> 
 
 # Simplifier  <img alt="GitHub issues" src="https://img.shields.io/github/issues/Antyss77/Mathematics-Simplifier"> <img alt="Discord" src="https://img.shields.io/discord/741862512307339264">
